@@ -77,9 +77,8 @@ for i in range(0,9):
 ### Original Image
 ![img](https://user-images.githubusercontent.com/94165336/234521126-6e16edb6-77bf-4556-be53-4d9b671f4583.png)
 
-
-
-
+![output](/i-1.png)
+![output](/i-2.png)
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
